@@ -18,7 +18,7 @@
 - Projects related to **Financial Technology**, **Healthcare**, and **Expense Management for Students**
 
 ### 📫 How to reach me ...
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com)
+- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com)](https://www.linkedin.com/in/anuj-ganesh-kanchan-167b4a290/)
 - **Email:** anujjjmitsoc@gmail.com
 - **GitHub:** [anujkanchan](https://github.com/anujkanchan)
 
