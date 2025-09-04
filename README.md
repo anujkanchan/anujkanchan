@@ -65,28 +65,4 @@ I’m passionate about building intelligent systems and solving real-world probl
 
 ---
 
-## 🏆 Achievements & Contributions  
-- ⭐ Total Stars Earned: **1**  
-- 📝 Total Commits (2025): **23**  
-- 🔀 Total Pull Requests: **1** 🎉  
-- 🐛 Total Issues: **0**  
-- 📂 Contributed to (last year): **0**  
-- 🌱 Actively learning & contributing to open-source projects  
-
-### 🏅 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=anujkanchan&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
-## 📈 Contribution Graph  
-
-![Anuj's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujkanchan&theme=radical)  
-
----
-
-## 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=anujkanchan&color=blue&style=flat-square)  
-
----
-
 ✨ *Always curious, always learning — let’s build something impactful together!* 🚀  
