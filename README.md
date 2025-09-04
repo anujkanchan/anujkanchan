@@ -66,9 +66,12 @@ I’m passionate about building intelligent systems and solving real-world probl
 ---
 
 ## 🏆 Achievements & Contributions  
-- ✅ Made my **first Pull Request** 🎉  
+- ⭐ Total Stars Earned: **1**  
+- 📝 Total Commits (2025): **23**  
+- 🔀 Total Pull Requests: **1** 🎉  
+- 🐛 Total Issues: **0**  
+- 📂 Contributed to (last year): **0**  
 - 🌱 Actively learning & contributing to open-source projects  
-- 📂 Working on projects in **AI, ML, and Web Development**  
 
 ---
 
