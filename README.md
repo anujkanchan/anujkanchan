@@ -65,4 +65,17 @@ I’m passionate about building intelligent systems and solving real-world probl
 
 ---
 
+## 🏆 Achievements & Contributions  
+- ✅ Made my **first Pull Request** 🎉  
+- 🌱 Actively learning & contributing to open-source projects  
+- 📂 Working on projects in **AI, ML, and Web Development**  
+
+---
+
+## 📈 Contribution Graph  
+
+![Anuj's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujkanchan&theme=radical)  
+
+---
+
 ✨ *Always curious, always learning — let’s build something impactful together!* 🚀  
