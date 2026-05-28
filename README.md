@@ -61,7 +61,6 @@ I’m passionate about building intelligent systems and solving real-world probl
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anujkanchan&theme=radical&hide_border=false)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkanchan&layout=compact&theme=radical)  
 
 ---
 
