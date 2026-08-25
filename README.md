@@ -1,5 +1,5 @@
 # Hi, I'm Anuj Ganesh Kanchan
-![Uploading github.gif…]()
+<img width="800" height="800" alt="github" src="https://github.com/user-attachments/assets/dca08ace-8d69-49da-8154-de87739987b2" />
 
 
 ### Computer Science Student | AI & Analytics Enthusiast
