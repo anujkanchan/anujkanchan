@@ -41,12 +41,4 @@ TensorFlow · PyTorch · Node.js
 **Tools & Platforms**  
 Git · GitHub · VS Code
 
-## GitHub Stats
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujkanchan&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anujkanchan&theme=default&hide_border=true)
-
----
-
-*Building, learning, and creating impactful technology.*
